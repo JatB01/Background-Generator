@@ -32,10 +32,12 @@ h4 {
 
 #r1 {
   background-color: #49dc8e;
+  font-weight: bold;
 }
 
 #r2 {
   background-color: #b27bf7;
+  font-weight: bold;
 }
 
 .table {
